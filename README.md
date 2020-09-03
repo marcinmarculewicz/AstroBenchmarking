@@ -83,7 +83,7 @@ Access the repo [here](https://github.com/skypyproject/skypy).
 ## AstroML
 AstroML constains various datasets. Below we are presenting review.
 AstroML has available routines for downloading and working on the astronomical data sets. https://www.astroml.org/modules/classes.html#module-astroML.datasets. For more details, see the documentation therein.
-** Sloan Digital Sky Survey (SDSS) Data
+## Sloan Digital Sky Survey (SDSS) Data
 
 The survey obtained photometry for hundreds of millions of stars, quasars, and galaxies, and spectra for several million of these objects. In addition, the second phase of the survey performed repeated imaging over a small portion of the sky, called Stripe 82, enabling the study of the time-variation of many objects.
 
